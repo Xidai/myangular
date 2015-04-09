@@ -1,0 +1,24 @@
+{
+  "name": "myangular",
+  "version": "0.0.1",
+  "description": "build my own angular",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daixi",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "lodash": "^3.6.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.1",
+    "grunt-contrib-testem": "^0.5.16",
+    "sinon": "^1.14.1"
+  }
+}
